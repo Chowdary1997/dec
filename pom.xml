@@ -8,7 +8,7 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javatechie</groupId>
+	<groupId>chowdary1997</groupId>
 	<artifactId>devops-integration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>devops-integration</name>
@@ -57,7 +57,7 @@
 				<artifactId>git-commit-id-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>sample</finalName>
+		<finalName>devops-integration</finalName>
 	</build>
 
 </project>
